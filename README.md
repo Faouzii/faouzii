@@ -2,6 +2,10 @@
 #### 📫 How to reach me: 
 #### Email : moad.faouzi@gmail.com
 #### StackOverflow : https://stackoverflow.com/users/10152355/faouzi
+
+![](https://komarev.com/ghpvc/?username=faouzii)
+
+
 <!--
 **Faouzii/faouzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
