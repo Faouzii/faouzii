@@ -3,7 +3,7 @@
 #### Email : moad.faouzi@gmail.com
 #### StackOverflow : https://stackoverflow.com/users/10152355/faouzi
 
-![](https://komarev.com/ghpvc/?username=faouzii)
+![](https://komarev.com/ghpvc/?username=faouzii&label=STARS) 
 
 
 <!--
