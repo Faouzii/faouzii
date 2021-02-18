@@ -1,5 +1,7 @@
 ### ⚡ Fun fact: 90% of my repos are private 😄😄
-#### 📫 How to reach me: moad.faouzi@gmail.com
+#### 📫 How to reach me: 
+  ####Email : moad.faouzi@gmail.com
+  ####StackOverflow : https://stackoverflow.com/users/10152355/faouzi
 <!--
 **Faouzii/faouzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
