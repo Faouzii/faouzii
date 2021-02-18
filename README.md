@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡ Fun fact: 90% of my repos are private 😄😄
 
 <!--
 **Faouzii/faouzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
