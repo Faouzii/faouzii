@@ -1,4 +1,4 @@
-### ⚡ Fun fact: 90% of my repos are private 😄😄
+### ⚡ Fun fact: 99% of my repos are private 😄😄
 #### 📫 How to reach me: 
 #### Email : moad.faouzi@gmail.com
 #### StackOverflow : https://stackoverflow.com/users/10152355/faouzi
